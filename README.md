@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @t-awka
+- 👀 I’m interested in memes
+- 🌱 I’m currently learning code
